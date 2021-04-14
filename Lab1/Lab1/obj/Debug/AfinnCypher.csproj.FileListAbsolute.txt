@@ -1,0 +1,10 @@
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.exe.config
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.exe
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.pdb
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.csprojAssemblyReference.cache
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.MainForm.resources
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.Properties.Resources.resources
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.csproj.GenerateResource.cache
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.csproj.CoreCompileInputs.cache
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.exe
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.pdb

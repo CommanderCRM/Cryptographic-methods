@@ -1,0 +1,19 @@
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.exe.config
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.exe
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\bin\Debug\AfinnCypher.pdb
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.MainForm.resources
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.Properties.Resources.resources
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\KMZI_KIA_748_Lab1.csproj.GenerateResource.cache
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\KMZI_KIA_748_Lab1.csproj.CoreCompileInputs.cache
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.exe
+D:\Загрузки\AfinnCypher-master\AfinnCypher-master\AfinnCypher\obj\Debug\AfinnCypher.pdb
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\bin\Debug\AfinnCypher.exe.config
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\bin\Debug\AfinnCypher.exe
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\bin\Debug\AfinnCypher.pdb
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\KMZI_KIA_748_Lab1.csprojAssemblyReference.cache
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\AfinnCypher.MainForm.resources
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\AfinnCypher.Properties.Resources.resources
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\KMZI_KIA_748_Lab1.csproj.GenerateResource.cache
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\KMZI_KIA_748_Lab1.csproj.CoreCompileInputs.cache
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\AfinnCypher.exe
+D:\Desktop\ТУСУР\3 курс, 5 семестр\КМЗИ\Lab1\Lab1\Lab1\obj\Debug\AfinnCypher.pdb
